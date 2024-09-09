@@ -12,4 +12,5 @@ myTeeth = "White";
 myHair = "Black";
 
 Console.WriteLine("Let's talk about " + myName);
-
+Console.WriteLine("He's " + myHeight + " inches tall.");
+Console.WriteLine("He's " + myWeight + " pounds heavy.");
